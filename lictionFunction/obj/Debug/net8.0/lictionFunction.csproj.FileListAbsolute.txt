@@ -1,0 +1,14 @@
+C:\Users\vasek\Desktop\Funcion4lesson\lictionFunction\bin\Debug\net8.0\lictionFunction.exe
+C:\Users\vasek\Desktop\Funcion4lesson\lictionFunction\bin\Debug\net8.0\lictionFunction.deps.json
+C:\Users\vasek\Desktop\Funcion4lesson\lictionFunction\bin\Debug\net8.0\lictionFunction.runtimeconfig.json
+C:\Users\vasek\Desktop\Funcion4lesson\lictionFunction\bin\Debug\net8.0\lictionFunction.dll
+C:\Users\vasek\Desktop\Funcion4lesson\lictionFunction\bin\Debug\net8.0\lictionFunction.pdb
+C:\Users\vasek\Desktop\Funcion4lesson\lictionFunction\obj\Debug\net8.0\lictionFunction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasek\Desktop\Funcion4lesson\lictionFunction\obj\Debug\net8.0\lictionFunction.AssemblyInfoInputs.cache
+C:\Users\vasek\Desktop\Funcion4lesson\lictionFunction\obj\Debug\net8.0\lictionFunction.AssemblyInfo.cs
+C:\Users\vasek\Desktop\Funcion4lesson\lictionFunction\obj\Debug\net8.0\lictionFunction.csproj.CoreCompileInputs.cache
+C:\Users\vasek\Desktop\Funcion4lesson\lictionFunction\obj\Debug\net8.0\lictionFunction.dll
+C:\Users\vasek\Desktop\Funcion4lesson\lictionFunction\obj\Debug\net8.0\refint\lictionFunction.dll
+C:\Users\vasek\Desktop\Funcion4lesson\lictionFunction\obj\Debug\net8.0\lictionFunction.pdb
+C:\Users\vasek\Desktop\Funcion4lesson\lictionFunction\obj\Debug\net8.0\lictionFunction.genruntimeconfig.cache
+C:\Users\vasek\Desktop\Funcion4lesson\lictionFunction\obj\Debug\net8.0\ref\lictionFunction.dll
