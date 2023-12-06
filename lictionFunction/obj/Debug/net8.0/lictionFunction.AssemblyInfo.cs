@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("lictionFunction")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1001df855fb408546138eaeaa0c9328863edc0d6")]
 [assembly: System.Reflection.AssemblyProductAttribute("lictionFunction")]
 [assembly: System.Reflection.AssemblyTitleAttribute("lictionFunction")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
