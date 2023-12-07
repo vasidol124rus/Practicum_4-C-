@@ -81,6 +81,27 @@ void inputArray(int[] arr)
         arr[i] = new Random().Next(-1000, 1001); //[-1000. 1000]
 }
 
+
+
+Console.Clear();
+Console.Write("Введите кол. элементов массива: ");
+int n = int.Parse(Console.ReadLine()!);
+int[] array = new int[n];
+inputArray(array);
+Console.Write($"Начальный массив: [{string.Join(", ", array)}]");
+
+
+
+// Задача 3. Заполните массив на N случайных чисел от 0 до 9( вводим с консоли не более 8)
+// Сформируйте целое число , которое будет состоять из цифр из массива. Старший разряд числа находится на 0-м
+// индексе, младший на последнем.
+
+void inputArray(int[] arr)
+{
+    for (int i = 0; i < arr.Length; i++)
+        arr[i] = new Random().Next(-1000, 1001); //[-1000. 1000]
+}
+
 int isCheck(int[] array){
     int count = 0;
     foreach (int element in array){
@@ -96,5 +117,3 @@ int n = int.Parse(Console.ReadLine()!);
 int[] array = new int[n];
 inputArray(array);
 Console.Write($"Начальный массив: [{string.Join(", ", array)}]");
-Console.Write($"Результат: [{isCheck(array)}]");
-
